@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "755482549885",
+    "firebase_url": "https://onmerantestinark-default-rtdb.firebaseio.com",
+    "project_id": "onmerantestinark",
+    "storage_bucket": "onmerantestinark.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755482549885:android:960c639045a9080ff65b14",
+        "android_client_info": {
+          "package_name": "com.nartominterancordinate.minimic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBHQHZJVABmiBOXleDdivHOiArFbNMmM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
